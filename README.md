@@ -21,6 +21,11 @@ You can click the Preview link to take a look at your changes.
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]()
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)]()
 
+### 🌐 Contribute
+- https://github.com/DroidKaigi/conference-app-2025/pull/221
+- https://github.com/DroidKaigi/conference-app-2025/pull/243
+
+
 ### 📚 Projects
 
 - Android: `2025.06 ~ 현재` **Roomi** | [tumblbug](https://tumblbug.com/roomi_)
