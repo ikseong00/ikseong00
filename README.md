@@ -26,16 +26,16 @@ You can click the Preview link to take a look at your changes.
 - Android: `2025.06 ~ 현재` **Roomi** | [tumblbug](https://tumblbug.com/roomi_)
 - Android: `2025.06 ~ 2025.09` **Unifest** | [Github](https://github.com/Project-Unifest/unifest-android) [Google Play](https://play.google.com/store/apps/details?id=com.unifest.android)
 - PM & Android: `2025.05 ~ 현재` **가날지기 배리어프리 지도** | [Github](https://github.com/KU-Barrier-Free/KU-Barrier-Free-Android)
-- Android: `2025.03 ~ 2025.07` **UCompass** | [Github]([https://github.com/OurMenu/OurMenu-FE](https://github.com/YangJJune/U-Compass)) [Google Play](https://play.google.com/store/apps/details?id=com.ikseong.ucompass&pli=1)
+- Android: `2025.03 ~ 2025.07` **UCompass** | [Github](https://github.com/YangJJune/U-Compass) [Google Play](https://play.google.com/store/apps/details?id=com.ikseong.ucompass&pli=1)
 - PM & Android: 2024.12 ~ 현재 **찾아유** | [Github](https://github.com/FindYou-Kuit/FindYou-Android)
 - Android: `2024.10 ~ 2025.02` **OurMenu** | [Github](https://github.com/OurMenu/OurMenu-FE)
 
 ### 🎓 Education & Activties
 - 건국대학교 컴퓨터공학부 (2020.03 ~ 2026.08 (예정))
-- 건국대 IT 동아리 KUIT 4,5th Android 파트장
-- 건국대 IT 동아리 KUIT 6th 회장
-- 건국대 IT 동아리 Maker's farm 운영진
-- 한이음 ICT 드림업 프로그램 2개팀 멘티 팀장 - 가날지기, 찾아유
+- 건국대 IT 동아리 **KUIT 4,5th Android 파트장**
+- 건국대 IT 동아리 **KUIT 6th 회장**
+- 건국대 IT 동아리 **Maker's farm 운영진**
+- 한이음 ICT 드림업 프로그램 **2개팀 멘티 팀장** - 가날지기, 찾아유
 
 ![ikseong00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikseong00&theme=graywhite)
 
