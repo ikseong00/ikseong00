@@ -22,8 +22,9 @@ You can click the Preview link to take a look at your changes.
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)]()
 
 ### 🌐 Contribute
-- https://github.com/DroidKaigi/conference-app-2025/pull/221
-- https://github.com/DroidKaigi/conference-app-2025/pull/243
+Droid Kaigi [conference-app-2025](https://github.com/DroidKaigi/conference-app-2025)
+- [#221](https://github.com/DroidKaigi/conference-app-2025/pull/221) feat: implement the zoom in/zoom out function for the timetable.
+- [#243](https://github.com/DroidKaigi/conference-app-2025/pull/243) fix: Remove recomposition when the FAB menu disappears
 
 
 ### 📚 Projects
