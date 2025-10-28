@@ -25,7 +25,7 @@ Droid Kaigi [conference-app-2025](https://github.com/DroidKaigi/conference-app-2
 - `2025.06 ~ 2025.09` **Unifest** | [Github](https://github.com/Project-Unifest/unifest-android) [Google Play](https://play.google.com/store/apps/details?id=com.unifest.android) Android
 - `2025.05 ~ 현재` **가날지기 배리어프리 지도** | [Github](https://github.com/KU-Barrier-Free/KU-Barrier-Free-Android) PM & Android
 - `2025.03 ~ 2025.07` **UCompass** | [Github](https://github.com/YangJJune/U-Compass) [Google Play](https://play.google.com/store/apps/details?id=com.ikseong.ucompass&pli=1) Android
-- 2024.10 ~ 현재 **찾아유** | [Github](https://github.com/FindYou-Kuit/FindYou-Android) PM & Android
+- `2024.10 ~ 현재` **찾아유** | [Github](https://github.com/FindYou-Kuit/FindYou-Android) PM & Android
 - `2024.06 ~ 2025.08` **OurMenu** | [Github](https://github.com/OurMenu/OurMenu-FE) Android
 
 
