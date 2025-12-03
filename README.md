@@ -44,7 +44,6 @@ Droid Kaigi [conference-app-2025](https://github.com/DroidKaigi/conference-app-2
 - `2025.04 ~ 2025.11` 한이음 ICT 드림업 프로그램 **2개팀 멘티 팀장** - 가날지기, 찾아유
 - `2025.09 ~ ing` 건국대 IT 동아리 **KUIT 6th 회장**
 
-![ikseong00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikseong00&theme=graywhite)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ikseong00&utm_content=line">
   <img
